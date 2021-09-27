@@ -1,1 +1,1 @@
-# labs-mai-ds
+# Data set about star
